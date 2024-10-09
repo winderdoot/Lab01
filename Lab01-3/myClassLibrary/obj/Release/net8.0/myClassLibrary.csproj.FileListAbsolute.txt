@@ -1,0 +1,11 @@
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\bin\Release\net8.0\myClassLibrary.deps.json
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\bin\Release\net8.0\myClassLibrary.dll
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\bin\Release\net8.0\myClassLibrary.pdb
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\obj\Release\net8.0\myClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\obj\Release\net8.0\myClassLibrary.AssemblyInfoInputs.cache
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\obj\Release\net8.0\myClassLibrary.AssemblyInfo.cs
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\obj\Release\net8.0\myClassLibrary.csproj.CoreCompileInputs.cache
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\obj\Release\net8.0\myClassLibrary.dll
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\obj\Release\net8.0\refint\myClassLibrary.dll
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\obj\Release\net8.0\myClassLibrary.pdb
+E:\1.Krzys\2_STUDIA\Semestr-3\PZ3\Lab01-3\myClassLibrary\obj\Release\net8.0\ref\myClassLibrary.dll
